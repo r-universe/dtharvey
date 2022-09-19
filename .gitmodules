@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "eChem"]
-	path = eChem
-	url = https://github.com/dtharvey/echem
-	shallow = true
-	registered = true
