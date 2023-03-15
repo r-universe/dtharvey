@@ -2,5 +2,9 @@
   {
     "package": "eChem",
     "oncran": true
+  },
+  {
+    "package": "titrationCurves",
+    "oncran": true
   }
 ]
